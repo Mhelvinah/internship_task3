@@ -1,8 +1,9 @@
-Weather Data Fetcher for Lagos
+WEATHER FETCHER FOR LAGOS STATE
+
 This project fetches weather data for Lagos, Nigeria, using the Tomorrow.io API and stores it in a MongoDB database. The weather data is collected
 every minute and saved into he database
 
-THESE ARE ITS FUNCTIONALITIES
+WHAT MY PROJECT DOES
 Fetches current weather data for Lagos, Nigeria.
 Uses the Tomorrow.io API to retrieve the weather data.
 Stores the weather data in a MongoDB database (weather_db).
